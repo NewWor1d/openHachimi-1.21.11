@@ -1,0 +1,1 @@
+{"schemaVersion":1,"id":"hachimi","version":"${version}","name":"Hachimi","description":":)","environment":"client","mixins":["mixins.hachimiclient.json"],"accessWidener":"hachimi.accesswidener","depends":{"java":">=21","fabricloader":">=0.15.11","minecraft":"=1.21.11","fabric-api":">=0.141.6"}}
