@@ -41,6 +41,8 @@ Windows 默认的游戏目录通常为 `%APPDATA%\\.minecraft\\mods`。如果使
 
 群号：**1079451026**
 
+BanLLL友情参与
+
 ## 来源与致谢  
 
 本客户端基于 [GzSakura1338/OpenHachimi](https://github.com/GzSakura1338/OpenHachimi) 项目源码进行升级和适配。感谢原作者的开源工作。
